@@ -1,0 +1,3 @@
+python sentencepiece_train.py \
+    -model_name tokenizer-other \
+    --corpus_name_or_path /new_disk/med_group/tokenizer_txt/diagnosis_guideline_pretrain_all.txt,/new_disk/med_group/tokenizer_txt/liver_pretrain.txt,/new_disk/med_group/tokenizer_txt/med_exam.txt,/new_disk/med_group/tokenizer_txt/pinyin_pretrain.txt,/new_disk/med_group/tokenizer_txt/textbook_text_ppt.txt,/new_disk/med_group/tokenizer_txt/translation_pretrain_merge.txt,/new_disk/med_group/tokenizer_txt/triple_abs_pretrain.txt
