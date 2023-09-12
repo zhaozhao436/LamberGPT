@@ -5,7 +5,7 @@ from datasets import load_dataset, concatenate_datasets
 from files_weights import med_weights
 
 
-data_cache_dir = '/new_disk/med_group/fin_txt/.cache'
+data_cache_dir = '/new_disk/med_group/antiforget_txt/group_3_5/.cache'
 files = sorted(os.listdir(data_cache_dir))
 
 total_tokens_number = 0
