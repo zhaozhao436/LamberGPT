@@ -1,3 +1,0 @@
-python sentencepiece_train.py \
-    --model_name tokenizer-2_00_14-2_before-4th-ch_med_traditional-CPubMed \
-    --corpus_name_or_path /new_disk/med_group/tokenizer_txt/2_00_14.txt,/new_disk/med_group/tokenizer_txt/2_before99.txt,/new_disk/med_group/tokenizer_txt/4th_textbooks.txt,/new_disk/med_group/tokenizer_txt/chines_med_traditional.txt,/new_disk/med_group/tokenizer_txt/CPubMed-KGv1_1_pretrain.txt
