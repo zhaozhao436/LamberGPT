@@ -1,6 +1,6 @@
 # LamberMed: A Chinese Medical Large Language Model with Knowledge Injection
 
-LamberMed 基于 **Llama-3.1-Base-8B**，通过医学知识图谱注入、双向知识增强和高质量指令微调，提升中文医学知识理解与医学自然语言处理能力。本页介绍论文的方法、数据构建、训练设置与实验结果。
+LamberMed 基于 **Llama-3.1-Base-8B**，通过医学知识图谱注入、双向知识增强和高质量指令微调，提升中文医学知识理解与医学自然语言处理能力。
 
 | 项目 | 内容 |
 | --- | --- |
